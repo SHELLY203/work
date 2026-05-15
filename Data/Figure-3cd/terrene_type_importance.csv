@@ -1,0 +1,64 @@
+%IncMSE,IncNodePurity,var_name,var_class
+27.80658225,0.456963172,convertedsand,Soil properties
+26.27357899,0.272231208,convertedPFT7,Human activities
+25.08747619,0.751497693,convertedbio_12,Climatic variables
+24.89002213,0.460078935,convertedbio39,Climatic variables
+24.63224115,0.562392892,convertedbio_19,Climatic variables
+24.24158477,0.432777563,convertednitrogen,Soil properties
+24.04306094,0.709111893,convertedphh2o,Soil properties
+24.02815492,0.443317288,convertedcec,Soil properties
+24.00642804,0.487155927,convertedbio_8,Climatic variables
+23.98459298,0.606827822,convertedbio_7,Climatic variables
+23.8640168,0.708394142,awi_pm_sr_yr,Climatic variables
+23.75615137,0.559298083,convertedbio_10,Climatic variables
+23.58269018,0.490409371,convertedbio35,Climatic variables
+23.30699643,0.558145052,convertedbio38,Climatic variables
+22.95743634,0.633339669,convertedbio21,Climatic variables
+22.92318709,0.443650321,convertedcfvo,Soil properties
+22.88636376,0.648054469,convertedbio28,Climatic variables
+22.70318554,0.481852284,convertedCN30cm,Soil properties
+22.54252264,0.480029113,convertedcv,Soil properties
+22.36391037,0.585698657,convertedbio_2,Climatic variables
+22.12712362,0.50470044,convertedsilt,Soil properties
+21.97904971,0.433531328,convertedpfertilizer,Human activities
+21.83607855,0.504392596,convertedsoc,Soil properties
+21.78249319,0.366345784,convertedHDI,Human activities
+21.61281487,0.590511558,x,Others
+21.48292141,0.661369734,convertedbio_4,Climatic variables
+21.34357347,0.438734746,convertedocs,Soil properties
+21.33173419,0.555250529,convertedbio23,Climatic variables
+21.26410267,0.539337093,convertedbio32,Climatic variables
+21.13142574,0.414920261,convertedHMTS,Human activities
+21.10583195,0.573216306,convertedbio_18,Climatic variables
+20.85858545,0.532507863,convertedbio22,Climatic variables
+20.83951241,0.27614773,convertedanthrome,Human activities
+20.80748389,0.496013475,convertedbio40,Climatic variables
+20.7603617,0.626263609,convertedbio_3,Climatic variables
+20.41192725,0.519059308,convertedbio_5,Climatic variables
+20.32746495,0.557161374,convertedbio_1,Climatic variables
+20.13927883,0.524106917,convertedbio31,Climatic variables
+19.99299087,0.35100332,convertedHII,Human activities
+19.97099565,0.572975142,convertedbio_9,Climatic variables
+19.93720998,0.329418885,convertedPFT13,Human activities
+19.85814421,0.46648097,convertedocd,Soil properties
+19.6019225,0.561154728,convertedbio34,Climatic variables
+19.25723779,0.200295829,convertedPFT27,Human activities
+19.00702001,0.695421,convertedbio26,Climatic variables
+18.97596699,0.51642724,convertedbdod,Soil properties
+17.78673186,0.53084427,convertedbio_15,Climatic variables
+17.74461691,0.217281927,convertedPFT29,Human activities
+17.51654239,0.370651722,convertedEntropy_,Others
+17.1393322,0.474661113,convertednfertilizer,Human activities
+17.00687516,0.568614536,convertedbio_16,Climatic variables
+16.48141399,0.407078503,convertedclay,Soil properties
+16.27078937,0.693231382,y,Others
+16.12723384,0.487738851,convertedSMC30cm,Soil properties
+16.03933058,0.505307305,convertedSMN30cm,Soil properties
+15.26123692,0.407684567,convertedbiomass,Others
+15.07622878,0.507756313,convertedbio29,Climatic variables
+14.91797682,0.500328949,convertedpmanure,Human activities
+14.84748228,0.601079471,convertedbio_13,Climatic variables
+14.75635435,0.096668631,convertedPFT30,Human activities
+14.22233475,0.163783192,convertedPFT14,Human activities
+14.10275931,0.495457858,convertednmanure,Human activities
+12.75054322,0.181544322,convertedPFT1,Human activities
